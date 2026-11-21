@@ -4,7 +4,7 @@ A Windows desktop tool for batch-converting **Olympus camera RAW (`.ORF`) files 
 
 Built with Python + Tkinter (wrapped with `tkinterdnd2` for drag & drop) and shipped as a standalone `.exe` via PyInstaller.
 
-![Olympus ORF Converter v2.1](https://img.shields.io/badge/version-2.1-blue) ![Platform](https://img.shields.io/badge/platform-Windows-0078D6) ![Python](https://img.shields.io/badge/python-3.x-3776AB)
+![Olympus ORF Converter v0.1](https://img.shields.io/badge/version-0.1-blue) ![Platform](https://img.shields.io/badge/platform-Windows-0078D6) ![Python](https://img.shields.io/badge/python-3.x-3776AB)
 
 ## Features
 
