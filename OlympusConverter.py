@@ -32,7 +32,7 @@ class Converter:
 
     def __init__(self, root):
         self.root = root
-        self.root.title(APP_NAME + " v2.1")
+        self.root.title(APP_NAME + " v0.1")
         self.setup_window()
 
         self.events = queue.Queue()
@@ -317,7 +317,7 @@ class Converter:
 
         ttk.Label(
             heading,
-            text="Lossless RAW to DNG conversion  •  v2.1",
+            text="Lossless RAW to DNG conversion  •  v0.1",
             style="Muted.TLabel"
         ).pack(anchor="w", pady=(1, 0))
 
